@@ -2,7 +2,7 @@
 
 This repository contains the main simulations and data analysis files (except Lumerical FDTD simulations) for the manuscript [arXiv:2308.04574](https://arxiv.org/abs/2308.04574).
 
-Parts of the code were developed by Dr. Daniel Suarez and Dr. Andrey Grankin. Parts of Transfer_matrix_method.nb were taken from the website of [Steven Byrnes](https://sjbyrnes.com/).
+Parts of the code were developed by Dr. Daniel Suarez and Dr. Andrey Grankin. Parts of Transfer_matrix_method.nb were taken from the Fresnel equation solver written by [Steven Byrnes](https://sjbyrnes.com/).
 
 The repository is divided into 3 folders:
 1. **Transfer_Matrix_Method** has a Mathematica notebook _Transfer_matrix_method.nb_ which has the code used for transfer matrix method (TMM) simulations. All necessary files to run the code are present in the Transfer_Matrix_Method/Files folder. One only needs to set the proper path to the files in the notebook after downloading it.
