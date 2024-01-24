@@ -1,6 +1,7 @@
 ## TMD-Chiral-Cavity
 
-This repository contains data analysis files for the manuscript arXiv:2308.04574.
+This repository contains the main simulations and data analysis files (except Lumerical FDTD simulations) for the manuscript arXiv:2308.04574.
+
 Parts of the code were developed by Dr. Daniel Suarez and Dr. Andrey Grankin.
 
 The repository is divided into 3 folders:
