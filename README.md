@@ -1,6 +1,6 @@
 ## TMD-Chiral-Cavity
 
-This repository contains the main simulations and data analysis files (except Lumerical FDTD simulations) for the manuscript [arXiv:2308.04574](https://arxiv.org/abs/2308.04574).
+This repository contains the main simulations and data analysis files (except Lumerical FDTD simulations) for the manuscript [Science Advances 10, eadr5904 (2024)](https://www.science.org/doi/full/10.1126/sciadv.adr5904).
 
 Parts of the code were developed by Dr. Daniel Suarez and Dr. Andrey Grankin. Parts of Transfer_matrix_method.nb were taken from the Fresnel equation solver written by [Steven Byrnes](https://sjbyrnes.com/).
 
