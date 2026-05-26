@@ -9,4 +9,3 @@ The repository is divided into 3 folders:
 2. **1D_waveguide_model** has a Mathematica notebook _1D_waveguide_model.nb_. In this notebook we simulate the reflection spectrum and electric field profile of the cavity by simulating it as two two-level emitters coupled to a 1D waveguide.
 3. **Magnetic_field_sweep** has a python notebook _MagneticField.ipynb_ for analysis of the magnetic field sweep data NKT_B_sweep.txt. All necessary files to run the code are present in the folder. One only needs to set the proper path to the files in the notebook after downloading it.
 4. **FDTD_Files** has the FDTD files used to simulate the cavity using ANSYS Lumerical.
-5. **Refractive_Indices** has the refractive index files used in simulations.
